@@ -85,8 +85,8 @@ class About extends Me {
   </a>
 </p>
 <div align="center">
-  <img align="right" src="https://github.com/hronyya/hronyya/blob/main/images/file.gif?raw=true" width="10%" alt="Hello Coders"/>
-  <img align="left" src="https://github.com/hronyya/hronyya/blob/main/images/file.gif?raw=true" width="10%" style="transform:scaleX(-1);" alt="Hello Coders"/>
+  <img align="right" src="https://github.com/hronyya/hronyya/blob/main/images/golisopod.gif?raw=true" width="10%" alt="Hello Coders"/>
+  <img align="left" src="https://github.com/hronyya/hronyya/blob/main/images/golisopod.gif?raw=true" width="10%" style="transform:scaleX(-1);" alt="Hello Coders"/>
 </div>
 <div align="center">
   <h3>Socials</h3>
